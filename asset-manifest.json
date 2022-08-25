@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactJs-app-to-convert-text-in-upper-case/static/css/main.31d6cfe0.css",
+    "main.js": "/ReactJs-app-to-convert-text-in-upper-case/static/js/main.1b98a586.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ReactJs-app-to-convert-text-in-upper-case/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ReactJs-app-to-convert-text-in-upper-case/index.html",
+    "main.1b98a586.js.map": "/ReactJs-app-to-convert-text-in-upper-case/static/js/main.1b98a586.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ReactJs-app-to-convert-text-in-upper-case/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1b98a586.js"
+  ]
+}
