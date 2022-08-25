@@ -36,11 +36,11 @@ const cpyTxt=()=>{
 
 }
 
-  const [text, settext ] = useState('Enter text Here 2 ');
+  const [text, settext ] = useState('Hello Mano!! ');
   return ( 
     <>
     <div>
-        <h1> {props.heading}</h1>   
+        <h1> {props.heading}</h1>  
         <div className="mb-3">
         <textarea className="form-control" value={text} id="myBox" rows="8" onChange={handleOnChange}></textarea>
     </div>
